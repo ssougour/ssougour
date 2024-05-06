@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Here you'll find a variety of projects related to computer science, software development, and more.
 
-![Profile Banner](https://twitter.com/ssougour)
+![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTdVZEo4wu-v64VnI8LqPYH9-Otkk5G_wzoS7KJxLkU1XEoEtjC-QQYTeXJT6JP38gPT3kVhJ1ahSN-EuoYf0dXiFNb6UfIwN1jCGc1FbDtI2gW_awVSoJW2yRgv05vA4DLu2rHrwT-GPr6pmcR1jP61081yllaLkoLU82DRBq93GVB9CtvGuhcWmQOEhA/w945-h600-p-k-no-nu/293665475_5265682240212544_7413608425078969420_n.jpg](https://twitter.com/ssougour)
 
 ## About Me
 
